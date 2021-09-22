@@ -1,2 +1,2 @@
 # Hello-world
-Retek kurva
+anyád picsáját maszírozza a vonat
